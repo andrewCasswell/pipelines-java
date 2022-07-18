@@ -9,6 +9,7 @@
 trigger:
   - main
   - releases/*
+  - feature/*
 
 strategy:
   matrix:
